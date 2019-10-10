@@ -1,3 +1,26 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
 .fondo-color{
     background-color:#660066;
+    }
+.paula{
+    font-family: 'Mansalva', cursive;
+}
+.trabajos{
+    color:#ffffff;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#header{
+    background-image: url(../img/IMG-9878.JPG);
+    min-height: 200px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: rgba(252, 159, 221, 0.979);
+  }
+
 }
